@@ -1,3 +1,3 @@
 # dentsu-assignment
-### This is a repository for assignments of selection process for dentsu internship in Japan.
+### This is a repository for assignments of the selection process for Dentsu internship in Japan.
 https://ddaint.net/
